@@ -1,9 +1,9 @@
 // Method01.java
-//
+// rename to Main.java
 
 package aloni.main;
 
-public class Method01 {
+public class Main {
   static void newMethod() {
       System.out.println("This is my first Java method!");
 }
