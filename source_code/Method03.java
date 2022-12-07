@@ -14,7 +14,7 @@ public class Main {
    Scanner inputObj = new Scanner(System.in);
    System.out.println("Give two integers:");
 
-   // name input
+   // number input
    int int01 = inputObj.nextInt();
    int int02 = inputObj.nextInt();
    
