@@ -1,7 +1,7 @@
 // Method01.java
 // rename to Main.java
 
-package aloni.main; // checl that the package name is correct
+package aloni.main; // check that the package name is correct
 
 public class Main {
   static void newMethod() {
